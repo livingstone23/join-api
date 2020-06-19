@@ -1,0 +1,9 @@
+C:\NET\api_04\Join\Join.Models\bin\Debug\netcoreapp3.1\Join.Models.deps.json
+C:\NET\api_04\Join\Join.Models\bin\Debug\netcoreapp3.1\Join.Models.dll
+C:\NET\api_04\Join\Join.Models\bin\Debug\netcoreapp3.1\Join.Models.pdb
+C:\NET\api_04\Join\Join.Models\obj\Debug\netcoreapp3.1\Join.Models.csprojAssemblyReference.cache
+C:\NET\api_04\Join\Join.Models\obj\Debug\netcoreapp3.1\Join.Models.csproj.CoreCompileInputs.cache
+C:\NET\api_04\Join\Join.Models\obj\Debug\netcoreapp3.1\Join.Models.AssemblyInfoInputs.cache
+C:\NET\api_04\Join\Join.Models\obj\Debug\netcoreapp3.1\Join.Models.AssemblyInfo.cs
+C:\NET\api_04\Join\Join.Models\obj\Debug\netcoreapp3.1\Join.Models.dll
+C:\NET\api_04\Join\Join.Models\obj\Debug\netcoreapp3.1\Join.Models.pdb
